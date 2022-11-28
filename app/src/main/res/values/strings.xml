@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">portfolio</string>
+    <string name="hedder">ssdfqefwefwef</string>
+    <string name="header" />
+    <string name="summery">King abdulaziz University graduate,with a bachelor degree in Information Technology,looking to improve my skills in variety of programming languages</string>
+    <string name="Education">King abdulaziz University 2017-2021\n Saudi Digital Academy 2022/6- 2022/10 \n Tuwaiq Academy 2022/11-current</string>
+    <string name="java">java</string>
+    <string name="mohammed_fadel_nsoftware_developer">Mohammed Fadel\nSoftware developer</string>
+    <string name="summ">Summery</string>
+    <string name="education">Education</string>
+    <string name="programming_languages">Programming Languages</string>
+    <string name="python">Python</string>
+    <string name="javascript">javascript</string>
+    <string name="html">html</string>
+    <string name="css">css</string>
+    <string name="kotlin">Kotlin</string>
+</resources>
